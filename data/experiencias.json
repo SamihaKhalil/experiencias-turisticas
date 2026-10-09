@@ -1,0 +1,81 @@
+[
+  {
+    "id": 1,
+    "nombre": "Cenote Azul",
+    "categoria": "naturaleza",
+    "precio": 350,
+    "cupo": 10,
+    "icono": "&#127754;"
+  },
+  {
+    "id": 2,
+    "nombre": "Zona arqueológica",
+    "categoria": "cultura",
+    "precio": 480,
+    "cupo": 2,
+    "icono": "&#128511;"
+  },
+  {
+    "id": 3,
+    "nombre": "Ruta en tirolesa",
+    "categoria": "aventura",
+    "precio": 750,
+    "cupo": 6,
+    "icono": "&#127796;"
+  },
+  {
+    "id": 4,
+    "nombre": "Reserva de tortugas",
+    "categoria": "naturaleza",
+    "precio": 420,
+    "cupo": 1,
+    "icono": "&#128034;"
+  },
+  {
+    "id": 5,
+    "nombre": "Museo maya",
+    "categoria": "cultura",
+    "precio": 550,
+    "icono": "&#127963;"
+  },
+  {
+    "id": 6,
+    "nombre": "Acuario",
+    "categoria": "entretenimiento",
+    "precio": 800,
+    "cupo": 15,
+    "icono": "&#128051;"
+  },
+  {
+    "id": 7,
+    "nombre": "Teatro",
+    "categoria": "entretenimiento",
+    "precio": 500,
+    "cupo": 4,
+    "icono": "&#127903;"
+  },
+  {
+    "id": 8,
+    "nombre": "Concierto",
+    "categoria": "entretenimiento",
+    "precio": 1200,
+    "cupo": 5,
+    "icono": "&#127908;"
+  },
+  {
+    "id": 9,
+    "nombre": "Nadar en el rio",
+    "categoria": "naturaleza",
+    "precio": 300,
+    "cupo": 14,
+    "icono": "&#127963;"
+  },
+  {
+    "id": 10,
+    "nombre": "Kayak en manglar",
+    "categoria": "aventura",
+    "precio": 680,
+    "cupo": 5,
+    "icono": "&#128758;"
+  }
+]
